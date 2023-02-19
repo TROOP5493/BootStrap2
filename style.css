@@ -63,9 +63,14 @@ div.content {
     float: none;
   }
 }
-.btn btn-primary {
-	background-color: 947698;
+.sidebar {
+	border-style: outset;
+	border-color: black;
+	background-color: ;
 }
-
+.container {
+	border-style: double;
+	border-color: black;
+}
 
 
