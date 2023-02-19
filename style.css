@@ -2,7 +2,7 @@
 body {
 	background-color: #4d3861; 
 }
-.left {
+.center {
 	position: absolute;
 	top: 50px;
 	left: 20px;
@@ -14,7 +14,7 @@ body {
   width: 250px;
   background-color: #B8BEC3;
   position: fixed;
-  height: 40%;
+  height: 70%;
   overflow: auto;
 }
 
